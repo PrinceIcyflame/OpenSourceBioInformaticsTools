@@ -1,5 +1,5 @@
 # OpenSourceBioInformaticsTools
-OpenSourceBioInformaticsTools
+OpenSource Bio Informatics Tools
 
 WikiPathways
 https://www.wikipathways.org/index.php/Download_Pathways
